@@ -2,7 +2,8 @@
 ```
      __   __  
 \_/ /  \ |__) 
-/ \ \__/ |  \ 
+/ \ \__/ |  \
+                    ~ Md Haisam Hoque
               
 ```
 This repository contains a simple **Python-based XOR decryption script** used to solve a common **CTF (Capture The Flag)** cryptography challenge.
