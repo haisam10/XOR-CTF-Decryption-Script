@@ -1,5 +1,10 @@
 # 🔐 XOR CTF Decryption Script
-
+```
+     __   __  
+\_/ /  \ |__) 
+/ \ \__/ |  \ 
+              
+```
 This repository contains a simple **Python-based XOR decryption script** used to solve a common **CTF (Capture The Flag)** cryptography challenge.
 
 The encrypted flag is stored using `chr(0x..) + chr(0x..)` format, and a repeating XOR key is applied to decrypt it.
